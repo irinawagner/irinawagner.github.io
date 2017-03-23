@@ -198,12 +198,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #aboutwrap {	
 	background: url(../img/about.jpg) no-repeat center top;
-	
+	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 800px;
+	min-height: 600px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
